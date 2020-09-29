@@ -1,0 +1,5 @@
+
+
+Regression Scores(train_test_split):
+Mean Absolute Error    :Mean Squared Error     :Median Absolute Error  :Explained Var Score    :R^2 Score              :
+

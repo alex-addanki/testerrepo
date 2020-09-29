@@ -1,0 +1,9 @@
+
+Regression Scores(train_test_split):
+Mean Absolute Error    :0.0
+Mean Squared Error     :0.0
+Median Absolute Error  :0.0
+Explained Var Score    :1.0
+R^2 Score              :nan
+
+
